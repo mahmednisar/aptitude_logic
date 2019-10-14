@@ -1,1 +1,0 @@
-# aptitude_logic
